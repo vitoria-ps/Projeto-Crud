@@ -1,6 +1,6 @@
 # Sistema de Biblioteca — Java Swing + MySQL + MVC
 
-Projeto acadêmico de CRUD desenvolvido em Java com Swing, MySQL e arquitetura MVC.
+Projeto acadêmico de CRUD desenvolvido em Java com Swing, SQLite e arquitetura MVC.
 
 ## Funcionalidades
 - Cadastrar livro
@@ -9,9 +9,9 @@ Projeto acadêmico de CRUD desenvolvido em Java com Swing, MySQL e arquitetura M
 - Excluir livro selecionado
 
 ## Requisitos
-- JDK 17+
-- MySQL 8+
-- Maven
+- Java
+- JavaSwing
+- SQLite
 
 
 ## Executar
