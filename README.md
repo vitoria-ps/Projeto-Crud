@@ -1,4 +1,4 @@
-# Sistema de Biblioteca — Java Swing + MySQL + MVC
+# Sistema de Biblioteca — Java Swing + SQLite + MVC
 
 Projeto acadêmico de CRUD desenvolvido em Java com Swing, SQLite e arquitetura MVC.
 
